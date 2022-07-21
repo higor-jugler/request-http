@@ -1,0 +1,15 @@
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\bin\Debug\net6.0\RequstHTTP.exe
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\bin\Debug\net6.0\RequstHTTP.deps.json
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\bin\Debug\net6.0\RequstHTTP.runtimeconfig.json
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\bin\Debug\net6.0\RequstHTTP.dll
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\bin\Debug\net6.0\RequstHTTP.pdb
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.csproj.AssemblyReference.cache
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.AssemblyInfoInputs.cache
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.AssemblyInfo.cs
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.dll
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\refint\RequstHTTP.dll
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.pdb
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\RequstHTTP.genruntimeconfig.cache
+C:\Users\Higor\Documents\RequstHTTP\RequstHTTP\obj\Debug\net6.0\ref\RequstHTTP.dll
